@@ -12,6 +12,9 @@ I’m S4JID — a systems-focused builder, engineer, and entrepreneur with a bac
 ![](https://nirzak-streak-stats.vercel.app/?user=sheikhsajid69&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsajid69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## <img width="68" height="80" alt="gitstory-sheikhsajid69-2025" src="https://github.com/user-attachments/assets/787d3b74-f6bc-4984-b47b-971e88f8516e" />
+
+
   ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c01b74da-82af-4008-9191-bfc83883556f" /> You can sponsor me
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sheikhsajid69) 
 
