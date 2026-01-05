@@ -1,3 +1,5 @@
+## <img width="100%" height="400" alt="wallhaven-qrrk27" src="https://github.com/user-attachments/assets/72bc29a2-deea-4554-a33f-c7c6341a02ce" />
+
 <img src="https://github.com/user-attachments/assets/cea969cc-9b89-44c1-b120-0e1eba3f4ac1" alt="serious-girl" width="1000" height="460">
 
 # <img width="25" height="25" alt="Berserk" src="https://github.com/user-attachments/assets/480069d8-fc98-49b2-ae52-180059ffbc31" /> About Me:
