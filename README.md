@@ -1,11 +1,5 @@
-## <img 
-  src="https://github.com/user-attachments/assets/2bbf9dab-0363-4bf3-aa53-15ad33e6f1af"
-  width="100%"
-  height="300"
-  alt="wallhaven-qrrk27"
-  style="pointer-events:none; user-select:none;"
-  title="What's up BITCH!"
-/>
+## <img src="https://github.com/user-attachments/assets/2bbf9dab-0363-4bf3-aa53-15ad33e6f1af" width="100%" height="300" alt="wallhaven-qrrk27" style="pointer-events:none; user-select:none;" />
+
 
 
 # <img width="25" height="25" alt="Berserk" src="https://github.com/user-attachments/assets/480069d8-fc98-49b2-ae52-180059ffbc31" /> About Me:
