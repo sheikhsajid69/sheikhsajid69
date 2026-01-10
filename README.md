@@ -1,5 +1,7 @@
-## <img src="https://github.com/user-attachments/assets/2bbf9dab-0363-4bf3-aa53-15ad33e6f1af" width="70%" height="300" alt="wallhaven-qrrk27" style="pointer-events:none; user-select:none;" /> <img src="https://github.com/user-attachments/assets/ecb9469f-2e8c-45f8-9f66-c300d7349064" width="30%" height="300" alt="wallhaven-qrrk27" style="pointer-events:none; user-select:none;" /> 
-
+<div style="display:flex; width:100%;">
+  <img src="https://github.com/user-attachments/assets/2bbf9dab-0363-4bf3-aa53-15ad33e6f1af" style="width:70%; height:300px; pointer-events:none; user-select:none;" alt="gif-1"/>
+  <img src="https://github.com/user-attachments/assets/ecb9469f-2e8c-45f8-9f66-c300d7349064" style="width:30%; height:300px; pointer-events:none; user-select:none;" alt="gif-2"/>
+</div>
 
 
 
