@@ -20,6 +20,6 @@ I’m S4JID — a systems-focused builder, engineer, and entrepreneur with a bac
 
 # <img width="25" height="25" style="pointer-events:none; user-select:none;" alt="image" src="https://github.com/user-attachments/assets/c01b74da-82af-4008-9191-bfc83883556f" /> You can sponsor me
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sheikhsajid69) 
-
+[![Paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=white)](upi://pay?pa=sheikhsajid69@ptyes&pn=S4JID&cu=INR)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
