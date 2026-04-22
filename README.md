@@ -37,8 +37,6 @@ Paused it to go deeper into low-level thinking, architecture, and engineering.
 > echo $SIGN_OFF
 Wallah Habibi.
 
-<img width="100%" height="300" alt="wallhaven-qrrk27" style="pointer-events:none; user-select:none;" src="https://github.com/user-attachments/assets/72bc29a2-deea-4554-a33f-c7c6341a02ce" title="What's up BITCH!" style="pointer-events:none; user-select:none;"/>
-
 # <img width="35" height="25" style="pointer-events:none; user-select:none;" alt="image" src="https://github.com/user-attachments/assets/69c99637-c845-4c9d-a893-680aa0c2456a" /> Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sheikhsajid69) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sheikhsajid69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SheikhSajid69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sheikhsajid5o5) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/sheikhsajid69) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/sheikhsajid69/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheikhsajid69@protonmail.com) [![Devfolio](https://img.shields.io/badge/Devfolio-3766E5?logo=devfolio&logoColor=white)](https://devfolio.co/@sheikhsajid69) [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/sheikhsajid69)
 
