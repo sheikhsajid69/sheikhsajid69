@@ -1,7 +1,41 @@
 <img src="https://github.com/user-attachments/assets/2bbf9dab-0363-4bf3-aa53-15ad33e6f1af" width="100%" height="300" alt="wallhaven-qrrk27" title="What's up BITCH!" style="pointer-events:none; user-select:none;">
 
 # <img width="25" height="25" alt="Berserk" src="https://github.com/user-attachments/assets/480069d8-fc98-49b2-ae52-180059ffbc31" style="pointer-events:none; user-select:none;" /> About Me: 
-I’m S4JID — a systems-focused builder, engineer, and entrepreneur with a background in early-stage venture creation, open-source engineering, and AI infrastructure development.<br><br>At the age of 15, I founded my first EdTech startup, zamoshut.com, scaling it to a $2B valuation and over $5M in gross revenue within 18 months. After achieving rapid traction, I paused the venture to focus on deeper technical projects.<br><br>Alongside this, I worked as a part-time freelancer on Fiverr and Upwork, delivering web design, development, system upgrades, and branding services for more than 740 clients.<br><br>In 2023, I engineered a modular multi-page architecture called Crystal-Works, which later aligned with my EdTech ecosystem. During the same period, I launched Sheikh Production House, producing animated content and personally handling scripting, direction, screenwriting, production, and editing.<br><br>Wallah Habibi!<br>I’m S4JID.
+> whoami
+S4JID — systems builder, engineer, and startup-minded problem solver
+
+> cat about.txt
+I design and build scalable systems, experiment with AI infrastructure, 
+and turn ideas into working products (then break them to make them better).
+
+Started early — built my first EdTech platform (zamoshut.com) at 15.
+Learned fast about growth, scale, and the chaos of real-world systems.
+Paused it to go deeper into low-level thinking, architecture, and engineering.
+
+> ls experience/
+- Freelance Engineering (Fiverr, Upwork)
+  Delivered web systems, upgrades, and branding for 700+ clients
+  Learned how to ship fast, debug faster, and deal with real users
+
+- Crystal-Works/
+  Modular multi-page architecture
+  Built for scalability, flexibility, and system-level thinking
+
+- Sheikh Production House/
+  Full-stack content pipeline
+  (writing → direction → production → editing)
+
+> current_focus --verbose
+- AI systems & infra
+- scalable architectures
+- open-source experiments
+- building things that actually work
+
+> philosophy
+"Build. Break. Rebuild. Repeat."
+
+> echo $SIGN_OFF
+Wallah Habibi.
 
 <img width="100%" height="300" alt="wallhaven-qrrk27" style="pointer-events:none; user-select:none;" src="https://github.com/user-attachments/assets/72bc29a2-deea-4554-a33f-c7c6341a02ce" title="What's up BITCH!" style="pointer-events:none; user-select:none;"/>
 
