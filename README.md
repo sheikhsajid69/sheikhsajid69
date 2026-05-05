@@ -48,7 +48,7 @@ Wallah Habibi.
 ![](https://streak-stats.demolab.com/?user=sheikhsajid69&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sheikhsajid69&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# <img width="25" height="25" alt="image" style="pointer-events:none; user-select:none;" src="https://png.pngtree.com/png-clipart/20221224/original/pngtree-world-cup-trophy-png-image_8804429.png" /> GitHub Trophies
+# <img width="25" height="25" alt="image" style="pointer-events:none; user-select:none;" src="https://png.pngtree.com/png-vector/20240322/ourmid/pngtree-retro-distressed-sticker-of-a-cartoon-wine-glass-png-image_12186390.png" /> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sheikhsajid69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
