@@ -45,7 +45,7 @@ Wallah Habibi.
 
 # <img width="25" height="25" alt="image" style="pointer-events:none; user-select:none;" src="https://github.com/user-attachments/assets/01bf0c29-c072-4772-81f6-3e1f37bdc083" /> GitHub Stats
 ![3D Contributions](https://contri3d.vercel.app/api/contributions?user=sheikhsajid69&lc=sheikhsajid69&theme=red&size=lg&type=iso&animate=0&labels=1)
-![](https://github-readme-stats.shion.dev/api?username=sheikhsajid69&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=sheikhsajid69&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=sheikhsajid69&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sheikhsajid69&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
