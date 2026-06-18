@@ -47,7 +47,6 @@ Wallah Habibi.
 ![3D Contributions](https://contri3d.vercel.app/api/contributions?user=sheikhsajid69&lc=sheikhsajid69&theme=mono&size=lg&type=iso&animate=1&labels=1)
 ![](https://github-readme-stats.shion.dev/api?username=sheikhsajid69&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=sheikhsajid69&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sheikhsajid69&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # <img width="364" height="460" style="pointer-events:none; user-select:none;" alt="gitstory-sheikhsajid69-2025" src="https://github.com/user-attachments/assets/787d3b74-f6bc-4984-b47b-971e88f8516e" /> 
 
