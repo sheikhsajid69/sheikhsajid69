@@ -50,6 +50,9 @@ Wallah Habibi.
 # <img width="364" height="460" style="pointer-events:none; user-select:none;" alt="gitstory-sheikhsajid69-2025" src="https://github.com/user-attachments/assets/787d3b74-f6bc-4984-b47b-971e88f8516e" /> 
 
 # <img width="25" height="25" style="pointer-events:none; user-select:none;" alt="image" src="https://github.com/user-attachments/assets/c01b74da-82af-4008-9191-bfc83883556f" /> You can sponsor me
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sheikhsajid69) 
-  
+<p align="center">
+  <a href="https://buymeachai.in/sheikhsajid69">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Chai-☕-FFDD00?style=for-the-badge" alt="Buy Me a Chai">
+  </a>
+</p>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
