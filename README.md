@@ -55,4 +55,5 @@ Wallah Habibi.
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Chai-☕-FFDD00?style=for-the-badge" alt="Buy Me a Chai">
   </a>
 </p>  
+<iframe src="https://github.com/sponsors/sheikhsajid69/button" title="Sponsor sheikhsajid69" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
