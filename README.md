@@ -51,8 +51,10 @@ Wallah Habibi.
 
 # <img width="25" height="25" style="pointer-events:none; user-select:none;" alt="image" src="https://github.com/user-attachments/assets/c01b74da-82af-4008-9191-bfc83883556f" /> You can sponsor me
 <p align="center">
+  <a href="https://github.com/sponsors/sheikhsajid69">
+  <img src="https://img.shields.io/badge/Sponsor%20on-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor">
+</a>
   <a href="https://buymeachai.in/sheikhsajid69">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Chai-☕-FFDD00?style=for-the-badge" alt="Buy Me a Chai">
   </a>
 </p>  
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sheikhsajid69)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
