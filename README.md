@@ -37,6 +37,46 @@ Paused it to go deeper into low-level thinking, architecture, and engineering.
 > echo $SIGN_OFF
 Wallah Habibi.
 
+<table>
+  <tr>
+    <!-- LEFT SIDE: YOUR IMAGE PARTITION -->
+    <td valign="top" width="45%">
+      <!-- Replace 'YOUR_IMAGE_PATH' with your actual image URL or repo path -->
+      <img width="100%" alt="SAJID-ODYSSEY" src="https://github.com/user-attachments/assets/5565888e-0566-4654-9224-4fb24a0e827a" />
+    </td>
+
+    <!-- RIGHT SIDE: TERMINAL TEXT PARTITION -->
+    <td valign="top" width="55%">
+      <pre>
+s4jid@infrastructure
+-----------------------------------------------------------------
+Identity.Whoami: ........... S4JID — systems builder & engineer
+Identity.Philosophy: ....... "Build. Break. Rebuild. Repeat."
+
+- Background ----------------------------------------------------
+Background.Origin: ......... Built EdTech platform (zamoshut.com) @ 15
+Background.Lessons: ........ Growth, scale, and the chaos of systems
+Background.Focus: .......... High-level thinking & architecture
+
+- Experience (ls experience/) ----------------------------------
+Experience.Opensource: ...... SDE, Jules, Code Wiki, nvidia NIM, Google DeepMind
+Experience.Freelance: ...... Delivered web systems for 700+ clients
+Experience.Crystal-Works: .. Modular multi-page architecture
+Experience.Sheikh-PH: ...... Full-stack content production pipeline
+
+- Current Focus (current_focus --verbose) -----------------------
+Focus.AI_Infra: ............ AI systems & infrastructure
+Focus.Architecture: ........ Scalable architectures
+Focus.Open-Source: ......... Open-source experiments
+Focus.Core_Goal: ........... Building creative/innovative things that actually work
+
+-----------------------------------------------------------------
+$ echo $SIGN_OFF
+> Wallah Habibi.</pre>
+    </td>
+  </tr>
+</table>
+
 # <img width="35" height="25" style="pointer-events:none; user-select:none;" alt="image" src="https://github.com/user-attachments/assets/69c99637-c845-4c9d-a893-680aa0c2456a" /> Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sheikhsajid69) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sheikhsajid69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SheikhSajid69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sheikhsajid5o5) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/sheikhsajid69) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/sheikhsajid69/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheikhsajid69@protonmail.com) [![Devfolio](https://img.shields.io/badge/Devfolio-3766E5?logo=devfolio&logoColor=white)](https://devfolio.co/@sheikhsajid69) [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/sheikhsajid69)
 
